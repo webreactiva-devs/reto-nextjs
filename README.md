@@ -29,6 +29,8 @@ Requisitos:
 - Botón de “Repetir” para recuperar otra solución y otro de “Borrar”
 - Diseño sobrio y sencillo
 
+👉 Usaremos la versión 13 de Next.js
+
 
 ### Ejemplo
 
@@ -110,7 +112,9 @@ Estas de arriba las ha generado la IA, a mi me gustan también cosas como
 
 ## 🤩 La comunidad malandriner dice:
 
-- De momento nada y espero que no se me olvide apuntarlo ;)
+![image](https://user-images.githubusercontent.com/1122071/211192222-a1ece89e-3bc5-4446-9325-ad8a19cf22f6.png)
+
+La versión 13.
 
 ## 🥳 Conclusiones para llevarse a casa
 
