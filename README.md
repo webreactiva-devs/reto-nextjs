@@ -66,7 +66,8 @@ Sugerencias de características adicionales para que completes el reto en funci�
 ## 📚 Recursos y materiales
 
 - [Tutorial oficial](https://nextjs.org/learn)
-- Iremos añadiendo más aquí ;)
+- [Taller de introducción a Next.js](https://github.com/webreactiva-devs/workshop-intro-nextjs)
+- [Solución en vídeo al taller](https://premium.danielprimo.io/cursos/curso-de-introduccion-a-nextjs)
 
 ## 📅 Calendario
 
