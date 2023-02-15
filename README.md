@@ -4,6 +4,17 @@
 
 ![reto-nextjs-png-1280×720-](https://user-images.githubusercontent.com/1122071/210415418-3a920493-9aa4-42bc-852d-383f88ff5cdd.png)
 
+## ¡Soluciones presentadas!
+
+🥳 Felicidades a los participantes 🏆
+
+![retonextjs-jorge](https://user-images.githubusercontent.com/1122071/219112017-fc9a3cb2-b0dd-47bc-8dc1-95655b00830a.png)
+
+[Ver código de @jorgeAoiz](https://github.com/jorgeAgoiz/EfficientList)
+
+![retonextjs-gabri](https://user-images.githubusercontent.com/1122071/219112049-a9141393-0d4f-4ae8-8742-5d0381e739ac.png)
+
+[Ver código de @gabrim90](https://github.com/gabrim90/webreactiva-retonextjs)
 
 ## 🏝 ¿Qué tiene esto de bueno para ti?
 
